@@ -109,7 +109,7 @@ Os autômatos finitos são a base teórica desse processo, enquanto as expressõ
 
 ---
 
-## Reflexão dos Alunos
+## Reflexão 
 
 Este laboratório foi importante para entender como linguagens de programação são interpretadas internamente.
 
